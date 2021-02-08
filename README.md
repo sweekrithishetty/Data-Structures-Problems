@@ -1,3 +1,3 @@
 # Data-Structures-Problems
-1) Reverse the array (C)
+1) Write a program to reverse an array or string
    
